@@ -1,0 +1,6 @@
+Daten sind aus der Realität gewonnene Fakten, z. B. gemessene physikalische Größen (Temperatur, Druck, Gewicht), historische Daten, Fotos, Ton- oder Filmaufnahmen usw.
+Der Begriff Information bezieht sich auf Daten, die bereits ausgewertet und auf sinnvolle Weise in eine Form gebracht wurden, die eine bestimmte Bedeutung hat. Informationen ermöglichen es uns, Wissen über die Welt um uns herum zu erlangen und Entscheidungen über unser Handeln auf der Grundlage von Informationen zu treffen.
+Informationen sind von Natur aus immateriell. Ein Signal - der physische Träger von Informationen - wird verwendet, um sie zu speichern, zu übertragen und zu verarbeiten.
+In seiner primitiven Form kann ein Signal z. B. ein Knoten an einer Schnur, eine Fahne an einem Mast usw. sein. Für die maschinelle Verarbeitung von Informationen werden verschiedene physikalische Größen, die ihren Zustand ändern, als Signale verwendet (elektrische Spannung, magnetische Polarisation, elektromagnetische Wellen, Schallwellen, Gas- oder Flüssigkeitsdruck...).
+Der Unterschied zwischen Daten und Informationen lässt sich am Beispiel eines Personalausweises erläutern. Ein Personalausweis enthält textliche, numerische und grafische Daten. Isolierte Daten sind für sich genommen bedeutungslos, erst durch ihre Aufnahme in den Ausweis entstehen sinnvolle Informationen über die Person.
+

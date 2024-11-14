@@ -1,0 +1,6 @@
+Data are facts obtained from reality, e.g. measured physical quantities (temperature, pressure, weight), historical data, photographs, sound or film recordings, etc.
+The term information refers to data that have already been evaluated and organized in a meaningful way into a form that has a specific meaning. Information enables us to form knowledge about the world around us and to make decisions about our actions based on information.
+Information is intangible in nature. A signal - the physical carrier of information - is used to store, transmit and process it.
+In its primitive form, a signal can be, for example, a knot on a string, a flag on a mast, etc. For machine processing of information, various physical quantities that change their state are used as signals (electrical voltage, magnetic polarization, electromagnetic waves, sound waves, gas or fluid pressure...).
+The difference between data and information can be explained by the example of an identification card. An ID card contains textual, numerical, graphical data. Isolated data are meaningless in themselves, only their inclusion in the ID card creates meaningful information about the person.
+
