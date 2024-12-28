@@ -1,0 +1,27 @@
+Zahrajte si na informaèní detektivy a zjistìte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn? Vytvoøen støeda 6. listopadu 2024, 10:58:49; Zmìnìn pátek 19. øíjna 2012, 22:25:32
+    b) V jakém znakovém kódování je uložen? UTF-8
+    c) V jakém jazyce je napsán jeho obsah? japonština
+    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)? Text je o Praze, popisuje mìsto s jeho historickými památkami,                                                                                                                  øeku Vltavu, Univerzitu Karlovu a Betlémskou kapli.
+                                                                                                         https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%8F
+    
+2. Soubor city.jpg:
+    a) Jaké rozmìry má tato fotka (v pixelech)? 1366x768
+    b) Jak se jmenuje mìsto na obrázku? Nairobi
+    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)? v Keni, Afrika
+    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce? 1.2921° S, 36.8219° V.
+    e) Co se v této budovì nachází? kanceláøské prostory
+    
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku? 24 bit; 72dpi
+    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)? Katalin Novák, maïarská prezidentka a politièka
+    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích. https://x.com/katalinnovak_hu?lang=cs
+    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìmž je jméno této osoby zmínìno. https://www.seznamzpravy.cz/tag/katalin-novak-106060
+    
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku? 8 bit; 580x387
+    b) Vlajka kterého státu je na obrázku?  Bhútánu
+    c) Najdìte bližší informace o tomto státu: rozlohu, poèet obyvatel, hlavní mìsto  Rozloha: 38 394 km2; Poèet obyvatel: pøibližnì 741 700; Hlavní mìsto: Thimphu
+    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkových blokù v pozadí vlajky.        Žlutá: RGB (255, 215, 0) / Hex #FFD700;  
+                                                                                                                           Oranžová: RGB (255, 140, 0) / Hex #FF8C00                                                                                                                                                 
